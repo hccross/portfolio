@@ -1,0 +1,137 @@
+body {
+    background-color:rgb(255, 255, 255);
+    color: black;
+  
+  }
+  nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  nav img {
+    max-width: 150px;
+    margin: 3px;
+  }
+  nav li {
+   display: inline-block;
+   padding: 5px;
+  font-family: times;
+  font-size:20px;
+   margin: 0px 30px 0px 30px;
+  }
+  .container 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  
+ 
+  }
+  footer{
+    display: flex;
+    justify-content: flex-end;
+    align-content:center;
+    
+  }
+  footer p {
+    color: black;
+    margin: 25px 10px 0px 10px;
+  }
+  #first {
+    max-width: 400px;
+  }
+  .container p {
+    color: white;
+  }
+  .container h3 {
+    text-align: center;
+  }
+  #second {
+    max-width: 400px;
+  }
+  #third {
+    max-width: 400px;
+  }
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+  a:link {
+    color:black;
+  }
+  a:hover {
+    color: purple;
+  }
+  .services {
+    max-width: 400px;
+    text-align: center;
+    position: relative;
+    max-height: 400px;
+  }
+  .about {
+    max-width: 400px;
+   text-align: center;
+   position: relative;
+   max-height: 400px;
+  }
+  .contact {
+    max-width: 400px;
+    position: relative;
+    max-height: 400px;
+  }
+  .banner {
+     object-position: center;
+  }
+  
+
+  
+  h1 {
+    text-align: center;
+    color: orange;
+  }
+  .container2 {
+    display: flex;
+    justify-content: space-around;
+  }
+  .container2 img {
+    max-width: 400px;
+  }
+  
+  .container3{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+  }
+  .container3 img {
+    max-width: 400px;
+  }
+  .about {
+    color: black;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 25px;
+  
+  }
+  .about2 {
+    color: black;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 50px;
+  }
+  .abouthead {
+    color: black;
+    text-align: center;
+    font-family: helvetica;
+  }
+  .feedback {
+    color: black;
+    text-align: justify;
+    font-family: helvetica;
+    font-size: 20px;
+ }
+ .footer {
+     text-align: center;
+ }
+  
+  }
